@@ -18,7 +18,7 @@ I work at the intersection of immersive technologies, human–computer interacti
 - [CNN Classifier](https://github.com/rafaelmiguez/cnn-classifier-atv) — image-classification project developed with Python, TensorFlow/Keras, and Poetry.
 - [TensorFlow Deep Learning](https://github.com/rafaelmiguez/TensorFlow-test) — convolutional-neural-network experiments using the Fashion-MNIST dataset.
 - [AR Interactive Instructions](https://github.com/rafaelmiguez/AR-LabFactory-Interactive-Instructions) — a Unity-based augmented-reality prototype using spatial anchors and interactive instructional widgets. The prototype is associated with Drivolution Version 1.0; the complete Unity project is not publicly included.
-- GenRO — private software-engineering project. The repository and implementation details are intentionally private.
+- Gen Ragnarok Online (GenRO) — private software-engineering project involving the development and maintenance of a Ragnarok Online server emulator with rAthena, C++, MySQL, and web tooling. Work included QA, debugging core mechanics, database and account-management integration, server administration, and user-driven improvements. The repository and implementation details are intentionally private.
 
 ## Profiles
 
