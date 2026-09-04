@@ -14,9 +14,9 @@ I work at the intersection of immersive technologies, human–computer interacti
 
 ## Selected projects
 
-- **CNN Classifier** — image-classification project developed with Python, TensorFlow/Keras, and Poetry.
-- **TensorFlow Deep Learning** — convolutional neural-network experiments using the Fashion-MNIST dataset.
-- **AR Interactive Instructions** — an augmented-reality prototype using spatial anchors and interactive instructional widgets.
+- [CNN Classifier](https://github.com/rafaelmiguez/cnn-classifier-atv) — image-classification project developed with Python, TensorFlow/Keras, and Poetry.
+- [TensorFlow Deep Learning](https://github.com/rafaelmiguez/TensorFlow-test) — convolutional-neural-network experiments using the Fashion-MNIST dataset.
+- [AR Interactive Instructions](https://github.com/rafaelmiguez/AR-LabFactory-Interactive-Instructions) — an augmented-reality prototype using spatial anchors and interactive instructional widgets.
 
 ## Profiles
 
