@@ -1,24 +1,26 @@
 # Rafael Miguez 👋
 
-**Computer Engineer | XR Researcher 🥽**
+**Computer Engineer | Software Developer | XR Researcher 🥽**
 
-I work at the intersection of immersive technologies, human–computer interaction, and intelligent systems. My experience includes developing AR/VR prototypes, interactive instructional interfaces, and computer-vision workflows using Unity and Unreal Engine.
+I develop software and interactive systems, with experience in AR/VR prototypes, instructional interfaces, and computer-vision workflows using Unity and Unreal Engine. My work connects software development with research in human–computer interaction and immersive technologies.
 
-## Research interests 🔬
+## Development & research interests 🔬
 
+- Software engineering, software architecture, and maintainable systems
 - Extended reality (XR), augmented reality (AR), and virtual reality (VR)
 - Human–computer interaction (HCI) and usability evaluation
 - Eye tracking and XR analytics
 - Unity, Unreal Engine, and computer vision
-- Software engineering, software architecture, and maintainable systems
 - Immersive technologies for industrial and educational applications
 
-## Selected projects 🚀
+## Selected public projects 🚀
 
-- [CNN Classifier](https://github.com/rafaelmiguez/cnn-classifier-atv) — image-classification project developed with Python, TensorFlow/Keras, and Poetry.
-- [TensorFlow Deep Learning](https://github.com/rafaelmiguez/TensorFlow-test) — convolutional-neural-network experiments using the Fashion-MNIST dataset.
-- [AR Interactive Instructions](https://github.com/rafaelmiguez/AR-LabFactory-Interactive-Instructions) — a Unity-based augmented-reality prototype using spatial anchors and interactive instructional widgets. The prototype is associated with Drivolution Version 1.0; the complete Unity project is not publicly included.
-- **Gen Ragnarok Online (GenRO)** — private software-engineering project involving the development and maintenance of a Ragnarok Online server emulator with rAthena, C++, MySQL, and web tooling. Work included QA, debugging core mechanics, database and account-management integration, server administration, and user-driven improvements. The repository and implementation details are intentionally private.
+- [AR Interactive Instructions](https://github.com/rafaelmiguez/AR-LabFactory-Interactive-Instructions) — a Unity/C# augmented-reality prototype for step-by-step equipment guidance on Meta Quest. The public case study includes demonstration videos and selected core scripts for spatial anchors and instructional workflows.
+- [Fashion-MNIST Classification](https://github.com/rafaelmiguez/TensorFlow-test) — an academic TensorFlow/Keras experiment using a dense neural network, with training, prediction, and classification metrics in a Jupyter notebook.
+
+## Academic coursework
+
+- [CNN Classifier](https://github.com/rafaelmiguez/cnn-classifier-atv) — a coursework fork of [RafaSantos484/cnn-classifier](https://github.com/RafaSantos484/cnn-classifier), used to explore image-classification workflows with Python, TensorFlow/Keras, and Poetry. The original project provides the foundation; this repository is presented as an academic exercise.
 
 ## Profiles & contact 🔗
 
@@ -26,4 +28,4 @@ I work at the intersection of immersive technologies, human–computer interacti
 - [Google Scholar](https://scholar.google.com/citations?user=PxhEC1IAAAAJ&hl=en)
 - [LinkedIn](https://www.linkedin.com/in/rafael-miguez/)
 
-I am interested in research, software engineering, development, and collaboration in XR, HCI, and intelligent interactive systems.
+I am interested in software development, research, and collaboration in XR, HCI, and intelligent interactive systems.
