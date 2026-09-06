@@ -13,10 +13,11 @@ I develop software and interactive systems, with experience in AR/VR prototypes,
 - Unity, Unreal Engine, and computer vision
 - Immersive technologies for industrial and educational applications
 
-## Selected public projects 🚀
+## Selected projects 🚀
 
 - [AR Interactive Instructions](https://github.com/rafaelmiguez/AR-LabFactory-Interactive-Instructions) — a Unity/C# augmented-reality prototype for step-by-step equipment guidance on Meta Quest. The public case study includes demonstration videos and selected core scripts for spatial anchors and instructional workflows.
 - [Fashion-MNIST Classification](https://github.com/rafaelmiguez/TensorFlow-test) — an academic TensorFlow/Keras experiment using a dense neural network, with training, prediction, and classification metrics in a Jupyter notebook.
+- **Gen Ragnarok Online (GenRO)** — private software-engineering project involving the development and maintenance of a Ragnarok Online server emulator with rAthena, C++, MySQL, and web tooling. Work included QA, debugging core mechanics, database and account-management integration, server administration, and user-driven improvements. The repository and implementation details are intentionally private.
 
 ## Academic coursework
 
